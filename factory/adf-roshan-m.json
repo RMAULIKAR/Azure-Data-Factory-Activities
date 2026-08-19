@@ -1,0 +1,15 @@
+{
+	"name": "adf-roshan-m",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1790beee-d15a-4577-87d3-f72a4fe25b47",
+		"tenantId": "39b3c4cf-bbea-49bc-a88a-5b63024f967d"
+	}
+}
