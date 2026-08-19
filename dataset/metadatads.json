@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": "csvfiles",
-				"fileSystem": "destination"
+				"folderPath": "destination/csvfiles",
+				"fileSystem": "adfactivities"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

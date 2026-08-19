@@ -19,8 +19,8 @@
 					"value": "@dataset().p_file_name",
 					"type": "Expression"
 				},
-				"folderPath": "csvfiles",
-				"fileSystem": "reporting"
+				"folderPath": "reporting/csvfiles",
+				"fileSystem": "adfactivities"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

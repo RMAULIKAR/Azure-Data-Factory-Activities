@@ -11,8 +11,8 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "Fact_Sale_1_GitPull.csv",
-				"folderPath": "csvfiles",
-				"fileSystem": "destination"
+				"folderPath": "destination/csvfiles",
+				"fileSystem": "adfactivities"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
