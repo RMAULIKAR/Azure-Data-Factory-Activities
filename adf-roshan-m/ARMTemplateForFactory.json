@@ -1086,7 +1086,7 @@
 						"type": "AzureBlobFSLocation",
 						"fileName": "netflix_titles.csv",
 						"folderPath": "rawdata",
-						"fileSystem": "rawdata"
+						"fileSystem": "adfactivities"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
