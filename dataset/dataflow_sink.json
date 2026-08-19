@@ -10,8 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": "dataflowOutput",
-				"fileSystem": "reporting"
+				"folderPath": "reporting/dataflowOutput",
+				"fileSystem": "adfactivities"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
