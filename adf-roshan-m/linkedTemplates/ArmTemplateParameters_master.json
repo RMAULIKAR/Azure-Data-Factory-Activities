@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-roshan-m"
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"HttpServer1_linked_git_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://azurefundaroshanstorage.dfs.core.windows.net/"
+		},
+		"ManagerTrigger_properties_typeProperties_scope": {
+			"value": "/subscriptions/4c7bf0c9-a696-4035-aa70-6ec7c00b4405/resourceGroups/azure_fundamentals/providers/Microsoft.Storage/storageAccounts/azurefundaroshanstorage"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
